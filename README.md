@@ -30,7 +30,7 @@ O notebook segue a seguinte estrutura lógica:
 3.  **Visualização (Pós-Graduação):** Geração do boxplot para a distribuição anual dos empréstimos de alunos de **Pós-Graduação**.
 4.  **Conclusões:** Análise comparativa das tendências observadas em ambos os públicos.
 
-## Visualizações
+## 📈 Visualizações
 
 ![]()
 
