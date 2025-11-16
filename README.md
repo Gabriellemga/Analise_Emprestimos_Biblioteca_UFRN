@@ -194,4 +194,4 @@ Será importante entender a razão de materiais do tema de Geografia/Biografia/H
 
 ## 🧑‍💻 Autor
 
-* [Márcia Gabrielle Apolinario / Gabriellemga]
+* [Márcia Gabrielle Apolinario / https://github.com/Gabriellemga]
