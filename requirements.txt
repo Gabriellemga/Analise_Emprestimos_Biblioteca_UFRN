@@ -1,0 +1,3 @@
+print('Versão pandas -> %s' %pd.__version__)
+print('Versão matplotlib.pyplot -> %s' %plt.matplotlib.__version__)
+print('Versão seaborn -> %s' %sns.__version__)
